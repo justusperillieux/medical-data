@@ -41,9 +41,9 @@ test = [
 
 
 [project.urls]
-"Homepage" = "https://github.com/justusschock/medical-data"
-"Repository" = "https://github.com/justusschock/medical-data"
-"Bug Reports" = "https://github.com/justusschock/medical-data/issues"
+"Homepage" = "https://github.com/justusperillieux/medical-data"
+"Repository" = "https://github.com/justusperillieux/medical-data"
+"Bug Reports" = "https://github.com/justusperillieux/medical-data/issues"
 
 [build-system]
 requires = [
