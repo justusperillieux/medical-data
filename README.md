@@ -1,6 +1,6 @@
 # Medical Data
 
-[![UnitTest](https://github.com/justusschock/medical-data/actions/workflows/unittests.yaml/badge.svg)](https://github.com/justusschock/medicaldata/actions/workflows/unittests.yaml) [![Build Package](https://github.com/justusschock/medical-data/actions/workflows/package_build.yaml/badge.svg)](https://github.com/justusschock/medical-data/actions/workflows/package_build.yaml) ![PyPI](https://img.shields.io/pypi/v/medical-data?color=grene) [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/justusschock/medical-data/main.svg)](https://results.pre-commit.ci/latest/github/justusschock/medical-data/main)
+[![UnitTest](https://github.com/justusperillieux/medical-data/actions/workflows/unittests.yaml/badge.svg)](https://github.com/justusperillieux/medicaldata/actions/workflows/unittests.yaml) [![Build Package](https://github.com/justusperillieux/medical-data/actions/workflows/package_build.yaml/badge.svg)](https://github.com/justusperillieux/medical-data/actions/workflows/package_build.yaml) ![PyPI](https://img.shields.io/pypi/v/medical-data?color=grene) [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/justusperillieux/medical-data/main.svg)](https://results.pre-commit.ci/latest/github/justusperillieux/medical-data/main)
 
 This repository contains utilities for handling data in medical image analysis that are not specific to certain tasks.
 
@@ -40,6 +40,6 @@ You can also install the package directly from GitHub by running
 
 ```bash
 
-    pip install git+https://github.com/justusschock/medical-data.git
+    pip install git+https://github.com/justusperillieux/medical-data.git
 
 ```
